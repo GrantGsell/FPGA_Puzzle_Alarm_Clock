@@ -35,7 +35,7 @@ can be seen below.
 
 **Built Using**
 
-  -SystemVerilog&nbsp;
+  -SystemVerilog    
   -Vivado HLx 2019.1
 
 **Authors**
