@@ -28,7 +28,7 @@ turn off the alarm and resume normal clock functionality. If the user is
 incorrect, the pattern will be shown again, and the user will get
 another try at inputting the pattern. The block diagram for this design
 can be seen below.
-
+![Figure 1: FPGA Clock Block Diagram](FPGA_Alarm_Clock_Block_Diagram.PNG)
 **Hardware Used**
 
   - Digilent Basys 3 Artix-7 Fpga Trainer Board
